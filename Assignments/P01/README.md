@@ -5,7 +5,7 @@
 
 - In this program we set up our programming environment in VSCode with 
 Golang. We then made a small program, using init to create a `go.mod` file.
-Then made our own package and then imported said package into the `main.go`
+Next, we made our own package and imported said package into the `main.go`
 file. The end result ended in Tux by using a `PrintLn()` function and the 
 `BestMascot()` function we imported. 
 
