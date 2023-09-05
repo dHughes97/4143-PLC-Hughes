@@ -14,7 +14,7 @@ file. The end result ended in Tux by using a `PrintLn()` function and the
 
 |   #   | Files/ Folders | Description                      |
 | :---: | --------- | -------------------------------- |
-|   1   | [main.go](./main.go)/  | Main program file. |
+|   1   | [main.go](./main.go)  | Main program file. |
 |   2   | [go.mod](./go.mod/)| Init file        |                  
 |  FLDR | [mascot](./mascot/)| Mascot folder          | 
 |   3   | [mascot.go](./mascot/mascot.go)| created package prog |
