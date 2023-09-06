@@ -26,9 +26,9 @@ file. The end result ended in Tux by using a `PrintLn()` function and the
 
 ### Example Commands
 ```
-//Need to cd into the correct folder first look for correct folder. 
-$ ls            //this will list the folders where you are located 
-$ cd assignments //to go into the according folder 
+                  //Need to cd into the correct folder first look for correct folder. 
+$ ls              //this will list the folders where you are located 
+$ cd assignments  //to go into the according folder 
 $ ls 
-$ cd P01 //brings you to the folder with the program we need to run.
+$ cd P01          //brings you to the folder with the program we need to run.
 ```
