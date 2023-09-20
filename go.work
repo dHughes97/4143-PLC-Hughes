@@ -1,0 +1,6 @@
+go 1.21.0
+
+use (
+    ./Assignments/P01
+    ./Assignments/P02/imagemod
+)
