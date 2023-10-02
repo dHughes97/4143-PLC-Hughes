@@ -1,4 +1,4 @@
-## P01- Golang Youtube Tutorial 
+## P02- Image Manipulation
 ### Delton Hughes 
 
 ### Description:
