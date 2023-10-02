@@ -10,7 +10,7 @@ import (
 
 func main() {
 	// Open the original image
-	reader, err := os.Open("image.png")
+	reader, err := os.Open("image/gaming.png")
 	if err != nil {
 		fmt.Printf("Error: %v\n", err)
 		return
