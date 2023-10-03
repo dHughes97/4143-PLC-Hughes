@@ -3,9 +3,5 @@ go 1.21.0
 use (
     ./Assignments/P01
     ./Assignments/P02/imagemod
-    ./Assignments/P03/imagemod
-    ./Assignments/P03/imagemod/Colors
-    ./Assignments/P03/imagemod/GetPic
-    ./Assignments/P03/imagemod/Grayscale
-    ./Assignments/P03/imagemod/Text
+  
 )
