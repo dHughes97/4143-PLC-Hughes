@@ -2,7 +2,7 @@
 ### Delton Hughes 
 
 ### Repository Contain Package
-https://github.com/dHughes97/ImageMod.git
+https://github.com/dHughes97/ColorsTest
 ### Description:
 
 - In this program we are creating a number of modules to show how module
@@ -11,30 +11,16 @@ for images to be convert into grayscale and be turned into `ASCII Art`.
 
 
 ### Files
-
-|   #   | Files/Folders                          | Description                          |
-| :---: | -------------------------------------- | ------------------------------------ |
-|   1   | [ImageMode](./ImageMode/)             | Main folder for the Image Mode project.|
-| 1-1   | [Color](./ImageMode/Color/)           | Container folder for color-related files. |
-| 1-1-1 | [go.mod](./ImageMode/Color/go.mod)    | Initialization of .mod in Color.     |
-| 1-1-2 | [main.go](./ImageMode/Color/main.go)  | Implementation in Color.             |
-| 1-1-3 | [Image](./ImageMode/Color/Image/)     | Folder holding color images.         |
-|   2   | [GetPic](./ImageMode/GetPic/)         | Container folder for GetPic-related files. |
-| 2-1   | [go.mod](./ImageMode/GetPic/go.mod)  | Initialization of .mod in GetPic.    |
-| 2-2   | [main.go](./ImageMode/GetPic/main.go)| Implementation in GetPic.            |
-|   3   | [Grayscale](./ImageMode/Grayscale/)  | Container folder for grayscale-related files. |
-| 3-1   | [go.mod](./ImageMode/Grayscale/go.mod)| Initialization of .mod in Grayscale. |
-| 3-2   | [main.go](./ImageMode/Grayscale/main.go)| Implementation in Grayscale.       |
-| 3-3   | [gray_image.png](./ImageMode/Grayscale/gray_image.png)| Grayscale image file.       |
-| 3-4   | [Image](./ImageMode/Grayscale/Image/)| Folder holding grayscale images.    |
-|   4   | [Text](./ImageMode/Text/)             | Container folder for text-related files. |
-| 4-1   | [go.mod](./ImageMode/Text/go.mod)    | Initialization of .mod in Text.      |
-| 4-2   | [main.go](./ImageMode/Text/main.go)  | Implementation in Text.              |
+|   #   | Files/ Folders | Description                      |
+| :---: | --------- | -------------------------------- |
+|   1   | [main.go](./ColorsTest/main.go)  | Main program file. |
+|   2   | [go.mod](./ColorsTest/go.mod/)| Init file        |                  
+|   3   | [colors_gray_scale](./ColorsTest/colors_gray_scale.jpg/)| Mascot folder          | 
+|   4   | [colors_labeled.jpg](./ColorsTest/colors_labeled.jpg)| created package prog |
+|   5   | [colors_pixel_counts.txt](./ColorsTest/colors_pixel_counts.txt)| created package prog |
+|   6   | [colors.jpg](./ColorsTest/colors.jpg)| created package prog |
 
 
-
-
-### Instructions
  
 
 ### Example Commands
