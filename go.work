@@ -4,4 +4,5 @@ use (
 	./Assignments/P01
 	./Assignments/P02/imagemod
 	./Assignments/P03/ColorsTestCopy
+	./Assignments/P04
 )
