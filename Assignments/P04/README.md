@@ -14,8 +14,16 @@ do not download correctly.
 | :---: | --------- | -------------------------------- |
 |   1   | [main.go](./main.go)  | Main program file. |
 |   2   | [go.mod](./go.mod/)| Init file        |                  
-
-
+|   3   | [conImg1.jpg](./conImg1.jpg/)| Concurrent Image   |  
+|   4   | [conImg2.jpg](./conImg2.jpg/)| Concurrent Image   | 
+|   5   | [conImg3.jpg](./conImg3.jpg/)| Concurrent Image   | 
+|   6   | [conImg4.jpg](./conImg4.jpg/)| Concurrent Image   | 
+|   7   | [conImg5.jpg](./conImg5.jpg/)| Concurrent Image   | 
+|   8   | [seqImg1.jpg](./seqImg1.jpg/)| Sequential Image   | 
+|   9   | [seqImg2.jpg](./seqImg2.jpg/)| Sequential Image   | 
+|   10  | [seqImg3.jpg](./seqImg3.jpg/)| Sequential Image   | 
+|   11  | [seqImg4.jpg](./seqImg4.jpg/)| Sequential Image   | 
+|   12  | [seqImg5.jpg](./seqImg5.jpg/)| Sequential Image   | 
 
  
 
