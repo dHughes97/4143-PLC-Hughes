@@ -25,7 +25,9 @@ do not download correctly.
 |   11  | [seqImg4.jpg](./seqImg4.jpg/)| Sequential Image   | 
 |   12  | [seqImg5.jpg](./seqImg5.jpg/)| Sequential Image   | 
 
- 
+### Speed Conclusion
+- Concurrent download took: 293.4561ms
+- Sequential download took: 2.3523046s
 
 ### Example Commands
 - Only command needed is to use `go run main.go`
